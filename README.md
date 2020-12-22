@@ -22,6 +22,8 @@
 
 `git-status` - Show the working tree status  
 
+`git -s` - Short status 
+
 `git add .` - adds all changes to working branch  
 
 `git add <filename.extension>` - adds new file to working branch
