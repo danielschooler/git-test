@@ -8,6 +8,8 @@
 
 `ls -a` - List Directory - Lists all the contents of the folder including hidden folders  
 
+`rm <file-name>` - Removes file  
+
 `open <file-name.extension>` Opens the file
 
 `git-status` - Show the working tree status  
