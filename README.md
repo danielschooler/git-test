@@ -1,8 +1,10 @@
 # Git Commands
 
 `cd` - Change Directory - returns to top of the folder tree 
-`ls` - List Directory - List the contents of a tree object
+`ls` - List Directory - List the contents of folder
+`ls -a` - List Directory - Lists all the contents of the folder including hidden folders
 
+`open <file-name.extension` Opens the file
 
 `git-status` - Show the working tree status  
 
