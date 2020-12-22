@@ -12,6 +12,10 @@
 
 `open <file-name.extension>` Opens the file
 
+`touch <file-name.extension>` Creates a new file in working directory  
+
+`mkdir` - Makes new folder in working dirctory  
+
 `git-status` - Show the working tree status  
 
 `git add .` - adds all changes to working branch  
