@@ -4,11 +4,13 @@
 `ls` - List Directory - List the contents of folder
 `ls -a` - List Directory - Lists all the contents of the folder including hidden folders
 
-`open <file-name.extension` Opens the file
+`open <file-name.extension>` Opens the file
 
 `git-status` - Show the working tree status  
 
-`git add` - add changes to working branch
+`git add .` - adds all changes to working branch  
+
+`git add <file-name.extension>` - adds new file to working branch
 
 `git commit -m 'comments'` Commit changes to working branch with comments 
 
