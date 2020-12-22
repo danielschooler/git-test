@@ -8,11 +8,13 @@
 
 `ls -a` - List Directory - Lists all the contents of the folder including hidden folders  
 
-`rm <file-name>` - Removes file  
+`rm <filename>` - Removes file  
 
-`open <file-name.extension>` Opens the file
+`mv <filename.A> <filename.B>` - mv (move) Changes filename A for filename B  
 
-`touch <file-name.extension>` Creates a new file in working directory  
+`open <filename.extension>` Opens the file
+
+`touch <filename.extension>` Creates a new file in working directory  
 
 `mkdir` - Makes new folder in working dirctory  
 
@@ -20,7 +22,7 @@
 
 `git add .` - adds all changes to working branch  
 
-`git add <file-name.extension>` - adds new file to working branch
+`git add <filename.extension>` - adds new file to working branch
 
 `git commit -m 'comments'` Commit changes to working branch with comments 
 
