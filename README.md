@@ -1,10 +1,10 @@
 # Git Commands
 
 `⌘ + k` To clear the Terminal window  
-  
-`cd` - Change Directory - returns to top of the folder tree 
-`ls` - List Directory - List the contents of folder
-`ls -a` - List Directory - Lists all the contents of the folder including hidden folders
+
+`cd` - Change Directory - returns to top of the folder tree  
+`ls` - List Directory - List the contents of folder  
+`ls -a` - List Directory - Lists all the contents of the folder including hidden folders  
 
 `open <file-name.extension>` Opens the file
 
