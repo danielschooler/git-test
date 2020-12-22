@@ -18,6 +18,8 @@
 
 `mkdir` - Makes new folder in working dirctory  
 
+`git ls-files` - Reveals all files in the staging area  
+
 `git-status` - Show the working tree status  
 
 `git add .` - adds all changes to working branch  
