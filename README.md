@@ -38,4 +38,6 @@
 
 `git branch -d <branch name>` - Deletes branch
 
-`git merge <branch name>` - Merges selected branch into main
+`git merge <branch name>` - Merges selected branch into main  
+
+`git log` - View all changes in the history 
