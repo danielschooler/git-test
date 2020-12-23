@@ -26,7 +26,7 @@
 
 `git add .` - adds all changes to working branch  
 
-`git add <filename.extension>` - adds new file to working branch
+`git add *.txt` Will add all .txt files 
 
 `git commit -m 'comments'` Commit changes to working branch with comments 
 
