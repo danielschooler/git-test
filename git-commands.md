@@ -41,3 +41,5 @@
 `git merge <branch name>` - Merges selected branch into main  
 
 `git log` - View all changes in the history 
+
+`rm -r <folder/filename>` - Removes folder or file from directory
